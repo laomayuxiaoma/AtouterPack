@@ -1,0 +1,4 @@
+include ':app', ':base_module:baselib',
+        ':operational_module:modulea', ':operational_module:moduleb',
+        ':base_module:function_module:communicationinterface'
+
